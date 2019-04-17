@@ -9,7 +9,7 @@ A robot assistant that tracks and helps you everywhere!
 * `Text here` - [Show link here](link here)
 
 ## Presentation
-* [Website](https://suphakit01.github.io/FolloWe/)
+* [Website](https://suphakit01.github.io/FolloWe/.)
 * [Youtube]()
 
 ## Built With

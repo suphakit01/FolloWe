@@ -8,7 +8,6 @@ body{
     padding: 0px;
 }
 
-
 /*      home page       */
 
 .menu_bar{
@@ -43,6 +42,9 @@ body{
     font-weight: bold;
     padding-left: 5vw;
     color: #434a43;
+    font-size: 22px;
+    cursor: pointer;
+}
 
 .left_menu h4:hover{
     color: #7e847c;

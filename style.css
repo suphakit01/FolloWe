@@ -130,13 +130,13 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1vw;
+    margin-top: 0.8vw;
     width: 4vw;
-    height: 0.8vh;
+    height: 0.8vw;
     background: #434a43;
 }
 
-@keyframes filling {
+@keyframes filling{
     from{
       background-position: center 2%;
     }
@@ -145,10 +145,31 @@ body{
     }
   }
   
-  .container-text{
+.container-text{
     background-image:  url(https://static.pexels.com/photos/4827/nature-forest-trees-fog.jpeg);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    color:  #FFFFFF;
+    color:  #f2f4f1;
     animation: filling 4s ease forwards;
   }
+
+@keyframes fade-in{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 100;
+    }
+}
+
+.title{
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: fade-in 4.5s;
+}
+
+.title2{
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    animation: fade-in 4.5s;
+}

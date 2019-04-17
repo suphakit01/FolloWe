@@ -43,9 +43,6 @@ body{
     font-weight: bold;
     padding-left: 5vw;
     color: #434a43;
-    font-size: 25px;
-    cursor: pointer; 
-}
 
 .left_menu h4:hover{
     color: #7e847c;

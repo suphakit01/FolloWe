@@ -8,7 +8,8 @@ body{
     padding: 0px;
 }
 
-/*      home page       */
+
+/*          home page           */
 
 .menu_bar{
     position: fixed;
@@ -58,7 +59,7 @@ body{
 }
 
 #text-border1{
-    border: 2px solid #434a43;
+    border: 2px solid #8a9b8a;
 }
 
 .right_menu ul{
@@ -85,7 +86,7 @@ body{
 
 .cover{
     width: 100%;
-    height: 95vh;
+    height: 90vh;
     background-color: #dde3d9;
     border: 15px solid #f2f4f1;
     box-sizing: border-box;
@@ -94,7 +95,7 @@ body{
 .noise {
     position: absolute;
     width: 100%;
-    height: 95vh;
+    height: 90vh;
     left: 0;
     top: 0;
     z-index: 98;
@@ -132,7 +133,7 @@ body{
     margin-right: auto;
     margin-top: 0.8vw;
     width: 4vw;
-    height: 0.8vw;
+    height: 0.5vw;
     background: #434a43;
 }
 
@@ -171,4 +172,75 @@ body{
 .title2{
     -webkit-background-clip: text;
     animation: fade-in 14s;
+}
+
+
+/*          About Page           */
+
+.about .topic1{
+    position: relative;
+    font-family: 'Hind', sans-serif;
+    color: #434a43;
+    text-align: center;
+    top: 20vw;
+    font-size: 1.5vw;
+}
+
+.under-line2{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21vw;
+    width: 4vw;
+    height: 0.3vw;
+    background: #434a43;
+}
+
+.card1{
+    margin-top: 15vw;
+    float: left;
+    margin-left: 12vw;
+    width: 360px;
+    height: 480px;
+    background-color: #f2f4f1;
+    box-shadow: 0px 0px 1vw #a7a7a7;
+}
+
+.picture-card1{
+    width: 360px;
+    height: 250px;
+    background-color: #abc5c0;
+}
+
+.under-line3{
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8vh;
+    width: 2vw;
+    height: 0.3vw;
+    background: #434a43;
+}
+
+.caption1{
+    font-family: 'Hind', sans-serif;
+    color: #434a43;
+    text-align: center;
+    margin-top: 30vw;
+    max-width:  50vh;
+    display: inline-block;
+    margin-left: 15vw;
+    position: relative;
+}
+
+.conver-syn1{
+    position: relative;
+    background: url(image/conver-syn.png) no-repeat;
+    height: 100vh;
+    opacity: 0.3;
+    margin-top: -30vh;
+    margin-left: 12vw;
+
 }

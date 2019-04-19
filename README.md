@@ -17,6 +17,6 @@ A robot assistant that tracks and helps you everywhere!
 
 ## Authors
 * Suphakit  Nachom  61070250 - [suphakit01](https://github.com/suphakit01)
-* Thivawat  kaewdungdee  61070066 - [Thivawat](https://github.com/Thivawat)
+* Nathachai Shinasawasophon  61070049 - [exzenous](https://github.com/exzenous)
 * Apinya Thammachai  61070258 - [Adopamine](https://github.com/Adopamine)
 * Sunisa Chanbang 61070249 - [SunisaChanbang](https://github.com/SunisaChanbang)

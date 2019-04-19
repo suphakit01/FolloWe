@@ -246,16 +246,22 @@ body{
 .about-right{
     display: inline-block;
     position: absolute;
-    margin-top: 25vw;
+    z-index: -1;
 }
 
-.conver-syn1{
-    /*background: url(image/conver-syn.png) no-repeat;*/
-    /*height: 100vh;*/
-    z-index: -1;
+.about-right p{
     font-family: 'Hind', sans-serif;
     color: #434a43;
     text-align: center;
     max-width: 60%;
     margin: auto;
+    margin-top: 50%;
+}
+
+.conver-syn1{
+    margin-top: -35%;
+    margin-left: 45%;
+    background: url(image/conver-syn.png) no-repeat;
+    height: 100vh;
+    opacity: 0.3;
 }

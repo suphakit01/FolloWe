@@ -245,6 +245,8 @@ body{
 
 .about-right{
     display: inline-block;
+    position: absolute;
+    margin-top: 25vw;
 }
 
 .conver-syn1{

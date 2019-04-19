@@ -11,6 +11,7 @@ A robot assistant that tracks and helps you everywhere!
 ## Presentation
 * [Website](https://suphakit01.github.io/FolloWe/.)
 * [Youtube]()
+* [Poster]()
 
 ## Built With
 * Text here

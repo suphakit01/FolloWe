@@ -14,8 +14,10 @@ A robot assistant that tracks and helps you everywhere!
 * [Poster]()
 
 ## Built With
-* HTML `5`
 * Arduino Uno
+* HTML `5`
+* CSS
+* JS
 
 ## Related Technology
 * Arduino

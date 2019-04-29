@@ -2,8 +2,8 @@
 A robot assistant that tracks and helps you everywhere!
 
 ## Purpose
-* Topic here
-* Topic here
+* help you to easily move object.
+* reduce health problems caused by lift heavy thing.
 
 ## Resources
 * `Project Hub` - [https://create.arduino.cc/projecthub/](https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)

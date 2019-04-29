@@ -1,5 +1,3 @@
-![](image/cover-readme.jpg)
-
 # FolloWe
 A robot assistant that tracks and helps you everywhere!
 
@@ -35,3 +33,5 @@ A robot assistant that tracks and helps you everywhere!
 ## Special Thanks to
 * Panwit Tuwanut
 * Kitsuchart Pasupa
+
+![](image/cover-readme.jpg)

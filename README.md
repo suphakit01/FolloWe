@@ -1,12 +1,12 @@
 # FolloWe
 A robot assistant that tracks and helps you everywhere!
 
-## Topic
+## Purpose
 * Topic here
 * Topic here
 
 ## Resources
-* `Text here` - [Show link here](link here)
+* `Project Hub` - [https://create.arduino.cc/projecthub/](https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)
 
 ## Presentation
 * [Website](https://suphakit01.github.io/FolloWe/.)
@@ -14,10 +14,20 @@ A robot assistant that tracks and helps you everywhere!
 * [Poster]()
 
 ## Built With
-* Text here
+* HTML `5`
+* Arduino Uno
 
-## Authors
+## Related Technology
+* Arduino
+* GPS
+* Bluetooth
+
+## Contributor
 * Suphakit  Nachom  61070250 - [suphakit01](https://github.com/suphakit01)
 * Nathachai Shinasawasophon  61070049 - [exzenous](https://github.com/exzenous)
 * Apinya Thammachai  61070258 - [Adopamine](https://github.com/Adopamine)
 * Sunisa Chanbang 61070249 - [SunisaChanbang](https://github.com/SunisaChanbang)
+
+## Special Thanks to
+* Panwit Tuwanut
+* Kitsuchart Pasupa

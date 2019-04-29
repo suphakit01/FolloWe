@@ -1,3 +1,5 @@
+![](image/cover-readme.jpg)
+
 # FolloWe
 A robot assistant that tracks and helps you everywhere!
 

@@ -9,6 +9,8 @@ A robot assistant can helps you everywhere!
 
 ## Material
 
+<image src="image/_MG_1273.jpg" width="50%" height="50%">
+
 ## Built With
 * Arduino Uno
 * C++

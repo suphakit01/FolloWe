@@ -7,13 +7,7 @@ A robot assistant can helps you everywhere!
 * ช่วยในการทุ่นแรงสำหรับการเคลื่อนย้ายสิ่งของ
 * ช่วยลดความเสี่ยงจากอาการหรือโรคต่างๆที่เกิดจากการยกของที่หนักเกินไป
 
-
-## Resources
-* `Project Hub` - [https://create.arduino.cc/projecthub/](https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)
-
-## Presentation
-* [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)
-* [Poster]()
+## Material
 
 ## Built With
 * Arduino Uno
@@ -23,7 +17,12 @@ A robot assistant can helps you everywhere!
 * Arduino
 * Bluetooth
 
-## Material
+## Presentation
+* [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)
+* [Poster]()
+
+## Resources
+* `Project Hub` - [https://create.arduino.cc/projecthub/](https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)
 
 ## Contributor
 * Suphakit  Nachom  61070250 - [suphakit01](https://github.com/suphakit01)

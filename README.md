@@ -14,19 +14,20 @@ A robot assistant can helps you everywhere!
 <image src="image/9.jpg" width="25%" height="25%"><image src="image/10.jpg" width="25%" height="25%"><image src="image/11.jpg" width="25%" height="25%"><image src="image/12.jpg" width="25%" height="25%">
 <image src="image/13.jpg" width="25%" height="25%">
 
-`Other Equipment and Devices`
-(MDF) Board, 1/4"
-Wood, 1"x2" 8 Ft
-Wood, 1"x3" 8 Ft
-Portible USB Charger (powerbank)
-Picture Hanging Command Strips(กาว2หน้าอย่างหนา)
-Soldering iron (generic)
-10 Nuts, Bolts, and Washers
-1/2" Washer
-M3 Nuts and Bolts
-M5 Nuts, Bolts, and Washers
-4x1" Nuts and Bolts
-6x1" Wood Screws
+|`Other Equipment and Devices`       |
+|------------------------------------|
+|(MDF) Board, 1/4"                   |
+|Wood, 1"x2" 8 Ft                    |
+|Wood, 1"x3" 8 Ft                    |
+|Portible USB Charger (powerbank)    |
+|Picture Hanging Command Strips      |
+|Soldering iron (generic)            |
+|10 Nuts, Bolts, and Washers         |
+|1/2" Washer                         |
+|M3 Nuts and Bolts                   |
+|M5 Nuts, Bolts, and Washers         |
+|4x1" Nuts and Bolts                 |
+|6x1" Wood Screws                    |
 
 
 ## Built With

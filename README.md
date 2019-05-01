@@ -1,9 +1,12 @@
 # FolloWe
 A robot assistant can helps you everywhere!
 
+“FolloWe” เป็นหุ่นยนต์ที่ช่วยในการย้ายสิ่งของและติดตามได้ โดยที่ผู้ใช้ไม่ต้องทำการควบคุมตลอดเวลา ซึ่งหุ่นยนต์ FolloWe จะเชื่อมต่อเข้ากับสมาร์ทโฟนผ่านทาง Bluetooth และใช้ GPS เพื่อนำทางอุปกรณ์อิเล็กทรอนิกส์ทั้งหมด ส่วนแผงวงจรต่างๆ จะถูกบรรจุไว้ในฐานของตัวหุ่นยนต์เพื่อให้สามารถนำวัตถุต่าง ๆ มาวางไว้ด้านบนของตัวหุ่นยนต์ได้ โดยหุ่นยนต์นี้จะช่วยเราย้ายสิ่งของที่ค่อนข้างมีน้ำหนักและขนาดไม่ใหญ่จนเกินไป ที่หุ่นยนต์สามารถรองรับได้
+
 ## Purpose
-* help you to easily move object.
-* reduce health problems caused by lift heavy thing.
+* ช่วยในการทุ่นแรงสำหรับการเคลื่อนย้ายสิ่งของ
+* ช่วยลดความเสี่ยงจากอาการหรือโรคต่างๆที่เกิดจากการยกของที่หนักเกินไป
+
 
 ## Resources
 * `Project Hub` - [https://create.arduino.cc/projecthub/](https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)

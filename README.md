@@ -38,6 +38,8 @@ A robot assistant can helps you everywhere!
 * Arduino
 * Bluetooth
 
+## How to use
+
 ## Presentation
 * [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)
 * [Poster]()

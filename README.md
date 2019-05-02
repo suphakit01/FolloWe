@@ -38,7 +38,7 @@ NodeMCU ที่อยู่ในตัวหุ่นยนต์จะทำ
 ![System Diagram](image/FolloWe_Diagram.png)
 
 ## Presentation
-* [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)
+* [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)`public tomorrow`
 * [Poster]()
 
 ## Resources

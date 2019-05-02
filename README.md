@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="style_md.css" />
-
 # FolloWe
 A robot assistant can helps you everywhere!
 
@@ -35,6 +33,9 @@ NodeMCU ที่อยู่ในตัวหุ่นยนต์จะทำ
 
 ## Code
 * [Arduino Project File](https://github.com/suphakit01/FolloWe/blob/master/NodeMCU_FolloWe.ino)
+
+## System Diagram
+![System Diagram](image/FolloWe_Diagram.png)
 
 ## Presentation
 * [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)

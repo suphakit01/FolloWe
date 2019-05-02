@@ -4,8 +4,6 @@
 #include <SoftwareSerial.h>
 
 //Definitions
-#define BLUETOOTH_TX 11
-#define BLUETOOTH_RX 10
 //Motor
 #define MOTOR_A_EN D1
 #define MOTOR_B_EN D4
@@ -18,10 +16,10 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "f29606cd39e04e658e4b470a73610c5f";
+char auth[] = "--Your Blynk Token--";
 
-char ssid[] = "XperiaZ5p";
-char pass[] = "22082515";
+char ssid[] = "--Your SSID--";
+char pass[] = "--Your PWD--";
 
 BLYNK_CONNECTED() {
   Blynk.syncAll();
@@ -38,9 +36,11 @@ BLYNK_WRITE(V1){
 }
 
 BLYNK_WRITE(V2){
+  //From Joystick in Blynk App
   x_axis = param[0].asInt();
   y_axis = param[1].asInt();
   
+  //Check for axes from joystick
   if(y_axis > 512){
     //Forward
     digitalWrite(MOTOR_A_IN_1,LOW);

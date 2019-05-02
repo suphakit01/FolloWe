@@ -39,7 +39,7 @@ NodeMCU ที่อยู่ในตัวหุ่นยนต์จะทำ
 
 ## Presentation
 * [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)`We're very sorry, public tomorrow`
-* [Poster]()
+* [Poster](image/poster.jpg)
 
 ## Resources
 * `Project Hub` - [https://create.arduino.cc/projecthub/](https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc)

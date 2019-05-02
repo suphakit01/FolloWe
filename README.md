@@ -1,5 +1,5 @@
 # FolloWe
-A robot assistant can helps you everywhere!
+A robot assistant that helps you everywhere!
 
 “FolloWe” เป็นหุ่นยนต์ที่ช่วยในการย้ายสิ่งของ โดยที่ผู้ใช้ต้องทำการควบคุม ซึ่งหุ่นยนต์ FolloWe จะถูกควบคุมผ่านทางแอพ Blynk เพื่อนำทางอุปกรณ์อิเล็กทรอนิกส์ทั้งหมด ส่วนแผงวงจรต่างๆ จะถูกบรรจุไว้ในฐานของตัวหุ่นยนต์เพื่อให้สามารถนำวัตถุต่าง ๆ มาวางไว้ด้านบนของตัวหุ่นยนต์ได้ โดยหุ่นยนต์นี้จะช่วยเราย้ายสิ่งของที่ค่อนข้างมีน้ำหนักและขนาดไม่ใหญ่จนเกินไป ที่หุ่นยนต์สามารถรองรับได้
 
@@ -7,7 +7,7 @@ A robot assistant can helps you everywhere!
 * ช่วยในการทุ่นแรงสำหรับการเคลื่อนย้ายสิ่งของ
 * ช่วยลดความเสี่ยงจากอาการหรือโรคต่างๆที่เกิดจากการยกของที่หนักเกินไป
 
-## Equipment and Devices
+## Equipments and Devices
 <image src="image/13.jpg" width="33%" height="33%"><image src="image/5.jpg" width="33%" height="33%"><image src="image/3.jpg" width="33%" height="33%"><image src="image/4.jpg" width="33%" height="33%"><image src="image/2.jpg" width="33%" height="33%"><image src="image/1.jpg" width="33%" height="33%">
 <image src="image/6.jpg" width="33%" height="33%">
 <image src="image/7.jpg" width="33%" height="33%"><image src="image/8.jpg" width="33%" height="33%"><image src="image/9.jpg" width="33%" height="33%">

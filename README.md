@@ -41,6 +41,8 @@ A robot assistant can helps you everywhere!
 
 ## How to use
 
+<iframe src="https://www.youtube.com/watch?v=6LFhe-wTXg8&list=RD6LFhe-wTXg8&start_radio=1" frameborder="0" allowfullscreen></iframe>
+
 ## 
 * [`Coding`]()
 

@@ -9,10 +9,11 @@ A robot assistant can helps you everywhere!
 
 ## Equipment and Devices
 
-<image src="image/1.jpg" width="25%" height="25%"><image src="image/2.jpg" width="25%" height="25%"><image src="image/3.jpg" width="25%" height="25%"><image src="image/4.jpg" width="25%" height="25%">
-<image src="image/5.jpg" width="25%" height="25%"><image src="image/6.jpg" width="25%" height="25%"><image src="image/7.jpg" width="25%" height="25%"><image src="image/8.jpg" width="25%" height="25%">
-<image src="image/9.jpg" width="25%" height="25%"><image src="image/10.jpg" width="25%" height="25%"><image src="image/11.jpg" width="25%" height="25%"><image src="image/12.jpg" width="25%" height="25%">
-<image src="image/13.jpg" width="25%" height="25%">
+<image src="image/1.jpg" width="33%" height="33%"><image src="image/2.jpg" width="33%" height="33%"><image src="image/3.jpg" width="33%" height="33%">
+<image src="image/4.jpg" width="33%" height="33%"><image src="image/5.jpg" width="33%" height="33%"><image src="image/6.jpg" width="33%" height="33%">
+<image src="image/7.jpg" width="33%" height="33%"><image src="image/8.jpg" width="33%" height="33%"><image src="image/9.jpg" width="33%" height="33%">
+<image src="image/10.jpg" width="33%" height="33%"><image src="image/11.jpg" width="33%" height="33%"><image src="image/12.jpg" width="33%" height="33%">
+<image src="image/13.jpg" width="33%" height="33%">
 
 |`Other Equipment and Devices`       |
 |------------------------------------|
@@ -39,6 +40,9 @@ A robot assistant can helps you everywhere!
 * Bluetooth
 
 ## How to use
+
+## 
+* [`Coding`]()
 
 ## Presentation
 * [Youtube](https://www.youtube.com/channel/UCZlMfjfZH7QHUnDT8k23p3Q)
